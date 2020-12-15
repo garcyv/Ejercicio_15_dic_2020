@@ -6,8 +6,10 @@ import android.os.Bundle;
 import android.util.Log;
 
 public class SecondActivity extends AppCompatActivity {
-    private String label=MainActivity.class.getSimpleName();
-    
+
+    private String label  = MainActivity.class.getSimpleName();
+    private String label2 = MainActivity.class.getSimpleName();
+
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);

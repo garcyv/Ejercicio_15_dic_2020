@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Ejercicio_14_dic_2020</string>
+    <string name="nombre">Nombre</string>
+    <string name="apellido">Apellido</string>
+    <string name="sting">Sting</string>
+    <string name="hola">Hola</string>
+</resources>
